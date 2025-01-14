@@ -1,2 +1,2 @@
 # CV
-Página web personal
+Página web personal: https://rfarfanch.github.io/CV/
